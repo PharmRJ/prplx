@@ -1,5 +1,5 @@
 ---
-title: You don't start out writing good stuff
+title: A Pharmacist wanting to make a change.
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
