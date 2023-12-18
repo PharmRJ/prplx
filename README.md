@@ -2,5 +2,5 @@
 
 Hugo Winston is a bold minimal blogging theme.
 
-[https://hugo-winston.netlify.app/](https://github.com/zerostaticthemes/hugo-winston-theme) |
+[Go Here for the Full GitHub Repo](https://github.com/zerostaticthemes/hugo-winston-theme) |
 [Zerostatic Themes](https://www.zerostatic.io/)
