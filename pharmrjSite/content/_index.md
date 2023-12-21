@@ -1,5 +1,5 @@
 ---
-title: A Pharmacist Nerd interested in Healthcare and Tech
+title: A Pharmacist💊 Nerd 🤓 interested in Healthcare and Tech
 description: A Pharmacist wanting to make a change.
 ---
 
