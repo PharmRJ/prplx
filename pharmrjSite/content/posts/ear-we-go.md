@@ -33,4 +33,6 @@ Finally there is a very comprehensive video from <a href="https://www.youtube.co
 <iframe width="336" height="189" src="https://www.youtube.com/embed/FVXghLWwxVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What otoscope should I buy?
+NHS England have helpfully provided some guidance on otoscopes in <a href="https://www.england.nhs.uk/wp-content/uploads/2023/11/PRN00936-i-Community-pharmacy-advanced-service-specification-NHS-pharmacy-first-service-November-2023.pdf" target="_blank"> **Annexe C of the Service Specification** </a> however the cost range of Otoscopes varies hugely from about £10 to £1000! Below are some thoughts from the few I've tried.
+
 
