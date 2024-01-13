@@ -19,4 +19,4 @@ I enjoy building Lego with my 2 young kids, and the usual stuff: reading booksðŸ
 
 ## What is this site for?
 
-It will be a random collection and musings of the above. I am no expert web developer, this site has been built using "free" tools like [GitHub](https://github.com/), Hugo, and Netlify [Paviunt castris](#nemorisque-urimur-violentus)
+It will be a random collection and musings of the above. I am no expert web developer, this site has been built using "free" tools like [GitHub](https://github.com/), [Hugo](https://gohugo.io/), and [Netlify](https://www.netlify.com/).
