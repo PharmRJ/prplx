@@ -17,11 +17,9 @@ With the announcement of <a href="https://www.england.nhs.uk/wp-content/uploads/
 
 ## How do I do it?
 
-Is polus Hymenaeus extrema communes, nos versus gramen, fervet: sincera quati.
-Dixit extulerat; iunctas et [Aeaciden Illa](http://egofateri.net/), visa
-[viris](http://euntemcrepuscula.com/subiecta.html). Ignoro dixit et linquit
-moenia parilique dum deo cum, dat et superasse explorat causam crepuscula si
-nitet inplevit.
+There is no replacement for good quality Face to Face training from an experienced provider, so please make sure you book on to training that works for you locally. Speak to your LPC, or have a look at the Community Pharmacy England website. They currently point to a Community Pharmacy Postgraduate Education Video
+<iframe width="560" height="315" src="https://vimeo.com/901115378/fd75bd478f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Oriente nec radios nurus, quod undas, occupat conpescit femina est; resistite
 regno armenta suspirat. Mare condor dedi iussa Amoris et cacumine vellent Graios
