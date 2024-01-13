@@ -15,7 +15,7 @@ tags:
 
 With the announcement of <a href="https://www.england.nhs.uk/wp-content/uploads/2023/11/PRN00936_ii_Pharmacy-First-Clinical-Pathways-v.1.6.pdf" target="_blank">**7 new national Pharmacy First services**</a> it is time for pharmacists to rapidly upskill and get comfortable with looking in peoples👂and as with everything else it will be a **practice makes perfect** situation. I have been using <a href="https://amzn.to/3vwVXDQ" target="_blank">**otoscopes**</a> and looking in ears for about 10 years now so some websites, videos and links below that may be helpful.
 
-## How do I do it?
+## How do I do an ear examination
 
 There is no replacement for good quality Face to Face training from an experienced provider, so please make sure you book on to training that works for you locally. Speak to your LPC, or have a look at <a href="https://cpe.org.uk/national-pharmacy-services/advanced-services/pharmacy-first-service/" target="_blank">**Community Pharmacy England**</a> resouces. They currently point to a suite of <a href="https://www.cppe.ac.uk/services/pharmacy-first/" target="_blank">**Centre for Postgraduate Pharmacy Education**</a> resources including this Video
 <iframe width="560" height="315" src="https://player.vimeo.com/video/901115378?h=fd75bd478f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,5 +26,6 @@ Cliniskills also offer FREE training and there are various webinars that can be 
 ## Other Videos
 
 I am a big fan of <a href="https://geekymedics.com/" target="_blank"> **Geeky Medics** </a> who have the below fantastic "OSCE Standard" video on ear examination and hearing tests.
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UvOcBxhdIVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UvOcBxhdIVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Its worth having a look at other videos on their <a href="https://www.youtube.com/@geekymedics" target="_blank"> **YouTube channel** </a> too as they have videos that will be useful for other clinical examination skills too.
