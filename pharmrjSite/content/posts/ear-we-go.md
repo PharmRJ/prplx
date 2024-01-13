@@ -20,6 +20,9 @@ With the announcement of <a href="https://www.england.nhs.uk/wp-content/uploads/
 There is no replacement for good quality Face to Face training from an experienced provider, so please make sure you book on to training that works for you locally. Speak to your LPC, or have a look at <a href="https://cpe.org.uk/national-pharmacy-services/advanced-services/pharmacy-first-service/" target="_blank">Community Pharmacy England</a> resouces. They currently point to a suite of <a href="https://www.cppe.ac.uk/services/pharmacy-first/" target="_blank">Centre for Postgraduate Pharmacy Education</a> resources including this Video
 <iframe width="560" height="315" src="https://player.vimeo.com/video/901115378?h=fd75bd478f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Cliniskills also offer FREE training and there are various webinars that can be watched later too.
+Cliniskills also offer FREE training and there are various webinars that can be watched later too. Click the logo below to take you to their sign up page.
 [![CliniSkills Logo](https://www.cliniskills.com/wp-content/uploads/2023/01/cliniskills-logo.svg)](https://www.cliniskills.com/community-pharmacists/)
-O
+
+## Other Videos
+
+I am a big fan of <a href="https://geekymedics.com/" target="_blank"> **Geeky Medics** </a>
