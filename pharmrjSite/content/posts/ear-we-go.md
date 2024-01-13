@@ -2,11 +2,11 @@
 title: Ear We Go👂
 date: 2024-01-13
 draft: false
-description: "It is an exciting time in Community Pharmacy with the launch of 7 New Pharmacy First Services. My thoughts on ear examination and Otoscopes"
+description: "It is an exciting time in Community Pharmacy with the launch of 7 New Pharmacy First Services. Here are some links to some useful resources to help get up to speed"
 image: images/ears.jpeg
 imageAltAttribute: An image of a spider and it's exoskeloton in an ear canal
 tags:
-   - otoscope
+   - clinical examination
    - ear
    - pharmacy
 ---
@@ -22,7 +22,6 @@ There is no replacement for good quality Face to Face training from an experienc
 
 Cliniskills also offer FREE training and there are various webinars that can be watched later too. Click the logo below to take you to their sign up page.
 [![CliniSkills Logo](https://www.cliniskills.com/wp-content/uploads/2023/01/cliniskills-logo.svg)](https://www.cliniskills.com/community-pharmacists/)
-
 ## Other Videos
 
 I am a big fan of <a href="https://geekymedics.com/" target="_blank"> **Geeky Medics** </a> who have the below fantastic "OSCE Standard" video on ear examination and hearing tests.
@@ -32,4 +31,6 @@ Its worth having a look at other videos on their <a href="https://www.youtube.co
 
 Finally there is a very comprehensive video from <a href="https://www.youtube.com/@DrJamesGill" target="_blank"> **Dr James Gill**</a>, that goes into the detailed anatomy
 <iframe width="336" height="189" src="https://www.youtube.com/embed/FVXghLWwxVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## What otoscope should I buy?
 
