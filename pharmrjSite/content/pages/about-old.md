@@ -2,7 +2,7 @@
 title: 'About'
 url: "/about/"
 image: images/Blog-RiseofDigitalPharmacy.svg
-draft: false
+draft: true
 ---
 
 ## Contra vagos
