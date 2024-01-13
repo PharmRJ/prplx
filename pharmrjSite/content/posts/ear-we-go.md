@@ -1,5 +1,5 @@
 ---
-title: Ear We Go👂
+title: Ear We Go 👂
 date: 2024-01-13
 draft: false
 description: "It is an exciting time in Community Pharmacy with the launch of 7 New Pharmacy First Services. Here are some links to some useful resources to help get up to speed"
