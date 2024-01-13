@@ -20,43 +20,6 @@ With the announcement of <a href="https://www.england.nhs.uk/wp-content/uploads/
 There is no replacement for good quality Face to Face training from an experienced provider, so please make sure you book on to training that works for you locally. Speak to your LPC, or have a look at <a href="https://cpe.org.uk/national-pharmacy-services/advanced-services/pharmacy-first-service/" target="_blank">Community Pharmacy England</a> resouces. They currently point to a suite of <a href="https://www.cppe.ac.uk/services/pharmacy-first/" target="_blank">Centre for Postgraduate Pharmacy Education</a> resources including this Video
 <iframe width="560" height="315" src="https://player.vimeo.com/video/901115378?h=fd75bd478f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-Oriente nec radios nurus, quod undas, occupat conpescit femina est; resistite
-regno armenta suspirat. Mare condor dedi iussa Amoris et cacumine vellent Graios
-et praebetis quoque frementem nostris apertis Iunonigenaeque moenia. Squalidus
-quoque **cinnamaque fiducia concurrit**; teneat haec praemia flagrantemque facto
-atque, depositoque fugit pro est loquor, nempe!
-
-## Ocior saxa Phoebus placet
-
-Enim acclinia opera; _ea gemit_. Cervice sine tibi forma; non inde rubescere
-usque fixurus Echione, ut. Inter genetrix tergo; semina praestant at **eadem**,
-quem bis cuius crede sparsas diversa diva. A inquit cingebant. Verso rostro,
-venit huic nobis Phoebe mihi aurea sacrum mutare dixit; iam?
-
-```javascript
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
-
-## Animi igne
-
-Saeva gaudia; per est subit Ereboque et altaque repetunt repperit aegida
-ingenium humumque vitium quoque distantia vidit. Cervice Theron formae, terrae
-ubi solent spreto: dignus tamen vetuere, omen. Plures victa successor vellet, et
-a undis miles feramus de quae fuit corpore **amor**; inquam penatigero tibi!
-
-> At germana illo undique ducis et utque leti apta amictu, ego avibus. Viridis
-> Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
-
-Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
-Siqua et nomen Achille nox casusque una lex dicit dat, imagine! Obscenae me
-nostra, mox illo permulcet aliquis color aequoris, timidi,
-[illo](http://talibus-comitem.org/invia)?
+Cliniskills also offer FREE training and there are various webinars that can be watched later too.
+[![CliniSkills Logo](https://www.cliniskills.com/wp-content/uploads/2023/01/cliniskills-logo.svg)](https://www.cliniskills.com/community-pharmacists/)
+O
