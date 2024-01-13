@@ -15,7 +15,7 @@ Another thing I enjoy is reading and trying to understand more about the evidenc
 
 ## What about Non Nerd Pharmacy Stuff?
 
-I enjoy building Lego with my 2 young kids, and the usual stuff: reading books📚, watching movies🎬, trying to exercise when I can🎬
+I enjoy building Lego with my 2 young kids, and the usual stuff: reading books📚, watching movies🎬, trying to exercise when I can🏃
 
 ## What is this site for?
 
