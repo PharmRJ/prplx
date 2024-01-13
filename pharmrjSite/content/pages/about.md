@@ -7,38 +7,16 @@ draft: false
 
 ## Who Am I
 
-I am a an Experienced Pharmacist who has been working in the Health Service for over 20 years. I enjoy tinkering around with technology. Whether that is websites like this or new things like AI. I am also on Twitter (I still refuse to call it X)
+I am a an Experienced Pharmacist who has been working in the Health Service for over 20 years. I enjoy tinkering around with technology. Whether that is websites like this or new things like AI. I am also on Twitter (I still refuse to call it X) and have various rants and rambles about most things.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+I am also passionate about "free and open source" software, the repurposing and reuse of "obsolete" technology and generally thinking of how I can minimise my impact on the planet.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Another thing I enjoy is reading and trying to understand more about the evidence around medicine and making the best use of them, but ensuring we are involving patients in decisions about their medicines and goals in life.
 
-## Ducem oculos pallor tale quoque
+## What about Non Nerd Pharmacy Stuff?
 
-Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
+I enjoy building Lego with my 2 young kids, and the usual stuff: reading books📚, watching movies📚, trying to exercise when I can📚
 
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
+## What is this site for?
 
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
-
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
+It will be a random collection and musings of the above. I am no expert web developer, this site has been built using "free" tools like GitHub, Hugo, and Netlify
