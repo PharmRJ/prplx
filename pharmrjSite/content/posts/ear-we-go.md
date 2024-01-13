@@ -35,4 +35,6 @@ Finally there is a very comprehensive video from <a href="https://www.youtube.co
 ## What otoscope should I buy?
 NHS England have helpfully provided some guidance on otoscopes in <a href="https://www.england.nhs.uk/wp-content/uploads/2023/11/PRN00936-i-Community-pharmacy-advanced-service-specification-NHS-pharmacy-first-service-November-2023.pdf" target="_blank"> **Annexe C of the Service Specification** </a> however the cost range of Otoscopes varies hugely from about £10 to £1000! Below are some thoughts from the few I've tried.
 
-
+### cheap and cheerful
+<a href="https://amz.to/3S5meRs" target="_blank"> **YNR England F.O Mini Otoscope Auriscope Fiber Optic ENT Medical Diagnostic Examination GP CE Mark Approved (Black)**</a>
+There are a fair few dozens of Sub £20 otoscopes on eBay and Amazon and I carry one of these in My "kit bag" there aren't any bells and whistles and they miss a few of the "recommendations" on the guidance in the spec, but for not much money, they are worth for a practice back up otoscope.
