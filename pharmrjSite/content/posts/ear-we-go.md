@@ -13,7 +13,7 @@ tags:
 
 ## The Ear Examination Evolution
 
-With the announcement of [7 new national Pharmacy First services](https://www.england.nhs.uk/wp-content/uploads/2023/11/PRN00936_ii_Pharmacy-First-Clinical-Pathways-v.1.6.pdf) it is time for pharmacists to rapidly upskill and get comfortable with looking in peoples👂and as with everything else it will be a **practice makes perfect** situation. I have been using otoscopes and looking in ears for about 10 years now so some websites, videos and links below that may be helpful.
+With the announcement of <a href="ttps://www.england.nhs.uk/wp-content/uploads/2023/11/PRN00936_ii_Pharmacy-First-Clinical-Pathways-v.1.6.pdf" target="_blank">7 new national Pharmacy First services</a> it is time for pharmacists to rapidly upskill and get comfortable with looking in peoples👂and as with everything else it will be a **practice makes perfect** situation. I have been using otoscopes and looking in ears for about 10 years now so some websites, videos and links below that may be helpful.
 
 ## How do I do it?
 
