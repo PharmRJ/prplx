@@ -38,4 +38,9 @@ NHS England have helpfully provided some guidance on otoscopes in <a href="https
 ### cheap and cheerful
 <a href="https://amzn.to/3S5meRs" target="_blank"> **YNR England F.O Mini Otoscope Auriscope Fiber Optic ENT Medical Diagnostic Examination GP CE Mark Approved (Black)**</a>
 [![YNR Otoscope](https://m.media-amazon.com/images/I/61bsL+NdZML._AC_SL1500_.jpg)](https://amzn.to/3S5meRs)
-There are a fair few dozens of Sub £20 otoscopes on eBay and Amazon and I carry one of these in My "kit bag" there aren't any bells and whistles and they miss a few of the "recommendations" on the guidance in the spec, but for not much money, they are worth it for a practice/back up otoscope if you go for one of the pricer options.
+There are dozens of Sub £20 otoscopes on eBay and Amazon and I carry one of these in myMy "kit bag". There aren't any bells and whistles and they miss a few of the "recommendations" on the guidance in the spec, but for not much money, they are worth it for a practice/back up otoscope in my opinion.
+
+### not really an otoscope...
+<a href="https://amzn.to/3vA9tXv" target="_blank"> **Qimix Ear Wax Removal Kit Camera**</a>
+[![Qimuc Camera](https://m.media-amazon.com/images/I/81XcSvwXSHL._AC_SL1500_.jpg)](https://amzn.to/3vA9tXv)
+I bought this one after watching Dr Hussain Gandhi's video on a similar product to look in my kids ears. Although in no way realted to the service spec these are also cheap and another useful gadget to have at your disposal. This one links to and Android device via WiFi but you can also get iPhone and PC versions that connect via USB too.
