@@ -37,4 +37,5 @@ NHS England have helpfully provided some guidance on otoscopes in <a href="https
 
 ### cheap and cheerful
 <a href="https://amzn.to/3S5meRs" target="_blank"> **YNR England F.O Mini Otoscope Auriscope Fiber Optic ENT Medical Diagnostic Examination GP CE Mark Approved (Black)**</a>
-There are a fair few dozens of Sub £20 otoscopes on eBay and Amazon and I carry one of these in My "kit bag" there aren't any bells and whistles and they miss a few of the "recommendations" on the guidance in the spec, but for not much money, they are worth for a practice back up otoscope.
+[![YNR Otoscope](https://m.media-amazon.com/images/I/61bsL+NdZML._AC_SL1500_.jpg)](https://amzn.to/3S5meRs)
+There are a fair few dozens of Sub £20 otoscopes on eBay and Amazon and I carry one of these in My "kit bag" there aren't any bells and whistles and they miss a few of the "recommendations" on the guidance in the spec, but for not much money, they are worth it for a practice/back up otoscope if you go for one of the pricer options.
