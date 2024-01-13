@@ -3,12 +3,12 @@ title: Ear We Go👂
 date: 2024-01-13
 draft: false
 description: "It is an exciting time in Community Pharmacy with the launch of 7 New Pharmacy First Services. My thoughts on ear examination and Otoscopes"
-image: images/cctv2.jpeg
-imageAltAttribute: CCTV Camera
+image: images/ears.jpeg
+imageAltAttribute: An image of a spider and it's exoskeloton in an ear canal
 tags:
-   - loyalty
-   - liberty 
-   - surveillance
+   - otoscope
+   - ear
+   - pharmacy
 ---
 
 ## He moved over to the window
