@@ -18,7 +18,7 @@ With the announcement of <a href="https://www.england.nhs.uk/wp-content/uploads/
 ## How do I do it?
 
 There is no replacement for good quality Face to Face training from an experienced provider, so please make sure you book on to training that works for you locally. Speak to your LPC, or have a look at the Community Pharmacy England website. They currently point to a Community Pharmacy Postgraduate Education Video
-<iframe width="560" height="315" src="https://vimeo.com/901115378/fd75bd478f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://vimeo.com/901115378/fd75bd478f?share=copy 
 
 
 Oriente nec radios nurus, quod undas, occupat conpescit femina est; resistite
