@@ -31,5 +31,5 @@ I am a big fan of <a href="https://geekymedics.com/" target="_blank"> **Geeky Me
 Its worth having a look at other videos on their <a href="https://www.youtube.com/@geekymedics" target="_blank"> **YouTube channel**</a> too as they have videos that will be useful for other clinical examination skills too.
 
 Finally there is a very comprehensive video from <a href="https://www.youtube.com/@DrJamesGill" target="_blank"> **Dr James Gill**</a>, that goes into the detailed anatomy
-<iframe width="336" height="189" src="https://www.youtube.com/embed/UvOcBxhdIVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="336" height="189" src="https://www.youtube.com/embed/FVXghLWwxVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
