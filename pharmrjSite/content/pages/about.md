@@ -5,13 +5,9 @@ image: images/Blog-RiseofDigitalPharmacy.svg
 draft: false
 ---
 
-## Contra vagos
+## Who Am I
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+I am a an Experienced Pharmacist who has been working in the Health Service for over 20 years. I enjoy tinkering around with technology. Whether that is websites like this or new things like AI. I am also on Twitter (I still refuse to call it X)
 
 > Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
 > adfusique imis amplexus. Agmina per fabricator
