@@ -37,17 +37,17 @@ NHS England have helpfully provided some guidance on otoscopes in <a href="https
 
 ### cheap and cheerful
 <a href="https://amzn.to/3S5meRs" target="_blank"> **YNR England F.O Mini Otoscope Auriscope Fiber Optic ENT Medical Diagnostic Examination GP CE Mark Approved (Black)**</a>
-[![YNR Otoscope](https://m.media-amazon.com/images/I/61bsL+NdZML._AC_SL1500_.jpg)](https://amzn.to/3S5meRs)
+[![YNR Otoscope](https://m.media-amazon.com/images/I/61bsL+NdZML._AC_SL1500_.jpg&width=336)](https://amzn.to/3S5meRs)
 There are dozens of Sub £20 otoscopes on eBay and Amazon and I carry one of these in myMy "kit bag". There aren't any bells and whistles and they miss a few of the "recommendations" on the guidance in the spec, but for not much money, they are worth it for a practice/back up otoscope in my opinion.
 
 ### not really an otoscope...
 <a href="https://amzn.to/3vA9tXv" target="_blank"> **Qimix Ear Wax Removal Kit Camera**</a>
-[![Qimuc Camera](https://m.media-amazon.com/images/I/81XcSvwXSHL._AC_SL1500_.jpg)](https://amzn.to/3vA9tXv)
+[![Qimuc Camera](https://m.media-amazon.com/images/I/81XcSvwXSHL._AC_SL1500_.jpg&width=336)](https://amzn.to/3vA9tXv)
 I bought this one after watching an <a href="https://www.youtube.com/@eGPlearning/videos" target="_blank"> **eGPlearning**</a> video on a similar product to look in my kids ears. Although in no way related to the service spec these are also cheap and another useful gadget to have at your disposal. This one links to and Android device via WiFi but you can also get iPhone and PC versions that connect via USB too.
 
 ### something a little different...
 <a href="https://arclightprojectshop.co.uk/products/arclight-ophthalmoscope-loupe-otoscope" target="_blank"> **Arclight - Ophthalmoscope-Loupe-Otoscope**</a>
-[![Arclight Otoscope/Opthalmoscope](https://arclightprojectshop.co.uk/cdn/shop/files/Clothchart_720x.png?v=1703144255)](https://arclightprojectshop.co.uk/products/arclight-ophthalmoscope-loupe-otoscope)
+[![Arclight Otoscope/Opthalmoscope](https://arclightprojectshop.co.uk/cdn/shop/files/Clothchart_720x.png?v=1703144255&width=336)](https://arclightprojectshop.co.uk/products/arclight-ophthalmoscope-loupe-otoscope)
 
 Another YouTube find! this cool bit of kit, from Dr Gandalf again
 <iframe width="336" height="189" src="https://www.youtube.com/embed/0UCIeoP-dcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -59,6 +59,6 @@ Originally made to overcome barriers to ownership in low-resource settings there
 ### The Pricier Options (if you can find stock!)
 
 <a href="https://www.medisave.co.uk/products/kawe-piccolight-fibre-optic-led-otoscope-black" target="_blank"> **KaWe Piccoloight Fibre Optic**</a>
-[![KaWe Piccoloight Fibre Optic](https://www.medisave.co.uk/cdn/shop/products/img_6921.jpg?v=1680581294&width=1100)](https://www.medisave.co.uk/products/kawe-piccolight-fibre-optic-led-otoscope-black)
+[![KaWe Piccoloight Fibre Optic](https://www.medisave.co.uk/cdn/shop/products/img_6921.jpg?v=1680581294&width=336)](https://www.medisave.co.uk/products/kawe-piccolight-fibre-optic-led-otoscope-black)
 
 
