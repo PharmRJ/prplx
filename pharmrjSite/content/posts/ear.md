@@ -10,7 +10,7 @@ tags:
    - ear
    - pharmacy
 ---
-_Disclaimer: This blog post contains some affiliate links. I may earn a small commission to fund my coffee drinking habit if you use these links to make a purchase. You will not be charged extra, and you’ll keep me supplied in caffeine. It’s a win for everyone, really_
+_Disclaimer: This blog post contains some affiliate links. I may earn a small commission to fund my coffee drinking habit if you use these links to make a purchase. You will not be charged extra, and you’ll keep me supplied in caffeine. It’s a win for everyone, really_☕
 
 ## The Ear Examination Evolution
 
@@ -68,7 +68,7 @@ This is one of the "traditional" brands of Otoscope that you will commonly find 
 
 Whichever of the options above you chose, the way you will get competent with using the Otoscope its lots of practice! Practice on friends and family (if they will let you!) and do face to face learning where you can. Good luck!
 
-(The photo at the top of this blog is from <a href="https://www.nejm.org/doi/full/10.1056/NEJMicm2307942" target="_blank"> **NEJM: A Spider and Its Exoskeleton in the Ear Canal**</a> ... I haven't seen any insects in ear canals yet, but it is an extremely rare occurence)
+(The photo at the top of this blog is from <a href="https://www.nejm.org/doi/full/10.1056/NEJMicm2307942" target="_blank"> **NEJM: A Spider and Its Exoskeleton in the Ear Canal**</a> ... I haven't seen any insects in ear canals yet, let me know if you do🕷️)
 
 
 
