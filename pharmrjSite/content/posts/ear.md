@@ -10,7 +10,7 @@ tags:
    - ear
    - pharmacy
 ---
-__Disclaimer: This blog post contains some affiliate links. I may earn a small commission to fund my coffee drinking habit if you use these links to make a purchase. You will not be charged extra, and you’ll keep me supplied in caffeine. It’s a win for everyone, really__
+_Disclaimer: This blog post contains some affiliate links. I may earn a small commission to fund my coffee drinking habit if you use these links to make a purchase. You will not be charged extra, and you’ll keep me supplied in caffeine. It’s a win for everyone, really_
 
 ## The Ear Examination Evolution
 
@@ -66,7 +66,7 @@ This is one of the "traditional" brands of Otoscope that you will commonly find 
 
 ### Final Thoughts
 
-Whichever of the options above you chose, the way you will get competent with using the Otoscope its lots of practice, 
+Whichever of the options above you chose, the way you will get competent with using the Otoscope its lots of practice! Practice on friends and family (if they will let you!)
 
 
 
