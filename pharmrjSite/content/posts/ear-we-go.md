@@ -59,6 +59,6 @@ Originally made to overcome barriers to ownership in low-resource settings there
 ### The Pricier Options (if you can find stock!)
 
 <a href="https://www.medisave.co.uk/products/kawe-piccolight-fibre-optic-led-otoscope-black" target="_blank"> **KaWe Piccoloight Fibre Optic**</a>
-[![KaWe Piccoloight Fibre Optic](https://www.medisave.co.uk/cdn/shop/products/img_6921.jpg?v=1680581294&width=1100](https://www.medisave.co.uk/products/kawe-piccolight-fibre-optic-led-otoscope-black)
+[![KaWe Piccoloight Fibre Optic](https://www.medisave.co.uk/cdn/shop/products/img_6921.jpg?v=1680581294&width=1100)](https://www.medisave.co.uk/products/kawe-piccolight-fibre-optic-led-otoscope-black)
 
 
