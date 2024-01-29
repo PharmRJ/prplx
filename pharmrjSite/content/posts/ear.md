@@ -10,7 +10,7 @@ tags:
    - ear
    - pharmacy
 ---
-_Disclaimer: This blog post contains some affiliate links. I may earn a small commission to fund my coffee drinking habit if you use these links to make a purchase. You will not be charged extra, and you’ll keep me supplied in caffeine. It’s a win for everyone, really_☕
+_Disclaimer: This blog post contains some affiliate links. I may earn a small commission to fund my coffee drinking habit if you use these links to make a purchase. You will not be charged extra, and you’ll keep me supplied in caffeine. It’s a win for everyone, really_ ☕
 
 ## The Ear Examination Evolution
 
