@@ -48,4 +48,9 @@ I bought this one after watching an <a href="https://www.youtube.com/@eGPlearnin
 ### something a little different...
 <a href="https://arclightprojectshop.co.uk/products/arclight-ophthalmoscope-loupe-otoscope" target="_blank"> **Arclight - Ophthalmoscope-Loupe-Otoscope**</a>
 [![Arclight Otoscope/Opthalmoscope](https://arclightprojectshop.co.uk/cdn/shop/files/Clothchart_720x.png?v=1703144255)](https://arclightprojectshop.co.uk/products/arclight-ophthalmoscope-loupe-otoscope)
-Another YouTube find this on from 2 videos about this cool bit of kit
+
+Another YouTube find! this cool bit of kit, from Dr Gandalf again
+<iframe width="336" height="189" src="https://www.youtube.com/embed/F0UCIeoP-dcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+and there is an excellent <a href="https://geekymedics.com/an-introduction-to-the-arclight/" target="_blank"> **Geeky Medics**</a> page too. The device has been developed by the  <a href="https://medicine.st-andrews.ac.uk/arclight/" target="_blank"> **Arclight Project social enterprisey**</a> led by the University of St Andrews in Scotland.
+
+Originally made to overcome barriers to ownership in low-resource settings there are now over 28,000 devices worldwide. The scientific evidence base for its effectiveness has grown and it is consequently gaining traction amongst medical students in wealthier countries too. 
