@@ -10,6 +10,7 @@ tags:
    - ear
    - pharmacy
 ---
+__Disclaimer: This blog post contains some affiliate links. I may earn a small commission to fund my coffee drinking habit if you use these links to make a purchase. You will not be charged extra, and you’ll keep me supplied in caffeine. It’s a win for everyone, really__
 
 ## The Ear Examination Evolution
 
@@ -61,7 +62,11 @@ Originally made to overcome barriers to ownership in low-resource settings there
 <a href="https://www.medisave.co.uk/products/kawe-piccolight-fibre-optic-led-otoscope-black" target="_blank"> **KaWe Piccoloight Fibre Optic**</a>
 [![KaWe Piccoloight Fibre Optic](https://www.medisave.co.uk/cdn/shop/products/img_6921.jpg?v=1680581294&width=336)](https://www.medisave.co.uk/products/kawe-piccolight-fibre-optic-led-otoscope-black)
 
-This is one of the "traditional" brands of Otoscope that you will commonly find in GP surgeries up and down the land and can be found for around £100, I would suggest the Fibre Optic version over as this presents a "ring" of light, rather than direct illumination via a bulb. Like other pieces of medical equipment some clinicians will have their preferred brands, which they will swear is "the best". Other common examples include, <a href="https://www.medisave.co.uk/collections/otoscopes?sort_by=price-ascending&filter.p.vendor=Keeler" target="_blank"> **Keeler**</a>, <a href="https://www.medisave.co.uk/collections/otoscopes?sort_by=price-ascending&filter.p.vendor=Welch+Allyn" target="_blank"> **Welch Allyn**</a>, <a href="https://www.medisave.co.uk/collections/otoscopes?sort_by=price-ascending&filter.p.vendor=Riester" target="_blank"> **Riester**</a>, & <a href="https://www.medisave.co.uk/collections/otoscopes?sort_by=price-ascending&filter.p.vendor=Heine" target="_blank"> **Heine**</a> although stocks are currently limited on many of the major suppliers.
+This is one of the "traditional" brands of Otoscope that you will commonly find in GP surgeries up and down the land and can be found for around £100, I would suggest the Fibre Optic version over as this presents a "ring" of light, rather than direct illumination via a bulb. Like other pieces of medical equipment some clinicians will have their preferred brands, which they will swear is "the best". Other common examples include, <a href="https://www.medisave.co.uk/collections/otoscopes?sort_by=price-ascending&filter.p.vendor=Keeler" target="_blank"> **Keeler**</a>, <a href="https://www.medisave.co.uk/collections/otoscopes?sort_by=price-ascending&filter.p.vendor=Welch+Allyn" target="_blank"> **Welch Allyn**</a>, <a href="https://www.medisave.co.uk/collections/otoscopes?sort_by=price-ascending&filter.p.vendor=Riester" target="_blank"> **Riester**</a>, & <a href="https://www.medisave.co.uk/collections/otoscopes?sort_by=price-ascending&filter.p.vendor=Heine" target="_blank"> **Heine**</a> although stocks are currently limited on many of the major suppliers, probably due to the demand of 10,000 pharmacies needing one!
+
+### Final Thoughts
+
+Whichever of the options above you chose, the way you will get competent with using the Otoscope its lots of practice, 
 
 
 
