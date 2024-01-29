@@ -1,6 +1,6 @@
 ---
 title: Ear We Go 👂
-date: 2024-01-13
+date: 2024-01-29
 draft: false
 description: "It is an exciting time in Community Pharmacy with the launch of 7 New Pharmacy First Services. Here are some links to some useful resources to help get up to speed"
 image: images/ears.jpeg
@@ -52,6 +52,13 @@ I bought this one after watching an <a href="https://www.youtube.com/@eGPlearnin
 Another YouTube find! this cool bit of kit, from Dr Gandalf again
 <iframe width="336" height="189" src="https://www.youtube.com/embed/0UCIeoP-dcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-and there is an excellent <a href="https://geekymedics.com/an-introduction-to-the-arclight/" target="_blank"> **Geeky Medics**</a> page too. The device has been developed by the  <a href="https://medicine.st-andrews.ac.uk/arclight/" target="_blank"> **Arclight Project social enterprisey**</a> led by the University of St Andrews in Scotland.
+and there is an excellent <a href="https://geekymedics.com/an-introduction-to-the-arclight/" target="_blank"> **Geeky Medics**</a> page too. The device has been developed by the  <a href="https://medicine.st-andrews.ac.uk/arclight/" target="_blank"> **Arclight Project social enterprise**</a> led by the University of St Andrews in Scotland.
 
-Originally made to overcome barriers to ownership in low-resource settings there are now over 28,000 devices worldwide. The scientific evidence base for its effectiveness has grown and it is consequently gaining traction amongst medical students in wealthier countries too. 
+Originally made to overcome barriers to ownership in low-resource settings there are now over 28,000 devices worldwide. The scientific evidence base for its effectiveness has grown and it is consequently gaining traction amongst medical students in wealthier countries too.
+
+### The Pricier Options (if you can find stock!)
+
+<a href="https://www.medisave.co.uk/products/kawe-piccolight-fibre-optic-led-otoscope-black" target="_blank"> **KaWe Piccoloight Fibre Optic**</a>
+[![KaWe Piccoloight Fibre Optic](https://www.medisave.co.uk/cdn/shop/products/img_6921.jpg?v=1680581294&width=1100](https://www.medisave.co.uk/products/kawe-piccolight-fibre-optic-led-otoscope-black)
+
+
