@@ -61,4 +61,6 @@ Originally made to overcome barriers to ownership in low-resource settings there
 <a href="https://www.medisave.co.uk/products/kawe-piccolight-fibre-optic-led-otoscope-black" target="_blank"> **KaWe Piccoloight Fibre Optic**</a>
 [![KaWe Piccoloight Fibre Optic](https://www.medisave.co.uk/cdn/shop/products/img_6921.jpg?v=1680581294&width=336)](https://www.medisave.co.uk/products/kawe-piccolight-fibre-optic-led-otoscope-black)
 
+This is one of the "traditional brands of Otoscope that you will commonly find in GP surgeries up and down the land and can be found for around £100, I would suggest the Fibre Optic version over as this presents a "ring" of light, rather than direct illumination via a bulb. Like other pieces of medical equipment some will have their preferred brands, which they will swear is "the best. Other common examples include, Keeler<a href="https://www.medisave.co.uk/collections/otoscopes?sort_by=price-ascending&filter.p.vendor=Keeler" target="_blank"> **Keeler**</a>, 
+
 
