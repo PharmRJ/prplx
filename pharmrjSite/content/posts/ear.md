@@ -66,7 +66,9 @@ This is one of the "traditional" brands of Otoscope that you will commonly find 
 
 ### Final Thoughts
 
-Whichever of the options above you chose, the way you will get competent with using the Otoscope its lots of practice! Practice on friends and family (if they will let you!)
+Whichever of the options above you chose, the way you will get competent with using the Otoscope its lots of practice! Practice on friends and family (if they will let you!) and do face to face learning where you can. Good luck!
+
+(The photo at the top of this blog is from <a href="https://www.nejm.org/doi/full/10.1056/NEJMicm2307942" target="_blank"> **NEJM: A Spider and Its Exoskeleton in the Ear Canal**</a> ... I haven't seen any insects in ear canals yet, but it is an extremely rare occurence)
 
 
 
