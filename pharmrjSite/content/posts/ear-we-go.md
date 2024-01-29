@@ -47,5 +47,5 @@ I bought this one after watching an <a href="https://www.youtube.com/@eGPlearnin
 
 ### something a little different...
 <a href="https://arclightprojectshop.co.uk/products/arclight-ophthalmoscope-loupe-otoscope" target="_blank"> **Arclight - Ophthalmoscope-Loupe-Otoscope**</a>
-[![Arclight Otoscope/Opthalmoscope](https://arclightprojectshop.co.uk/cdn/shop/files/Clothchart_720x.png?v=1703144255)(https://arclightprojectshop.co.uk/products/arclight-ophthalmoscope-loupe-otoscope)
+[![Arclight Otoscope/Opthalmoscope](https://arclightprojectshop.co.uk/cdn/shop/files/Clothchart_720x.png?v=1703144255)](https://arclightprojectshop.co.uk/products/arclight-ophthalmoscope-loupe-otoscope)
 Another YouTube find this on from 2 videos about this cool bit of kit
