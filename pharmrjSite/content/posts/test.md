@@ -2,9 +2,9 @@
 title: What is the mechanism of penicillin and cephalosporins cross sensitivity?
 date: 2025-04-06
 draft: false
-description: "It is an exciting time in Community Pharmacy with the launch of 7 New Pharmacy First Services. Here are some links to some useful resources to help get up to speed"
-image: images/ears.jpeg
-imageAltAttribute: An image of a spider and it's exoskeloton in an ear canal
+description: "perplexity answers this common question"
+image: images/perplexlog.png
+imageAltAttribute: the perplexity logo
 tags:
    - antibiotics
    - health
