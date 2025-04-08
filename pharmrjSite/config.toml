@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-gb"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Robin Conibere"
+title = "Perplexity Shares"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@pharmrj"
+  twitter_handle = ""
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showIntroContentOnHomepage = true
@@ -52,7 +52,7 @@ pygmentsUseClasses = true
     url = '/'
     weight = 1
   [[menu.main]]
-    name = "Blog"
+    name = "Shares"
     identifier = "blog"
     weight = 2
     url = "/posts/"
