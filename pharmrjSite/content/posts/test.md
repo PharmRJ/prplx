@@ -3,7 +3,7 @@ title: What is the mechanism of penicillin and cephalosporins cross sensitivity?
 date: 2025-04-06
 draft: false
 description: "perplexity answers this common question"
-image: images/perplexlog.png
+image: images/perplexlogo.png
 imageAltAttribute: the perplexity logo
 tags:
    - antibiotics
