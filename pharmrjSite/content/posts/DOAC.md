@@ -1,4 +1,10 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+---
+title: DOAC Monitoring Changes
+date: 2025-04-09
+draft: false
+---
+
+ <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
 # DOAC monitoring - recent change in NICE monitoring from 6 monthly to 4 monthly in >75s + frailty - does anyone know what the benefit of this is to patients? Does 4 monthly monitoring actually improve patient outcomes vs 6 monthly? Is there available evidence for this? What is the rationale
 
